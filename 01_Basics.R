@@ -121,7 +121,7 @@ x
 ##. logical - TRUE or FALSE
 y <- FALSE
 y
-str(y)
+str(y) # structure of y
 
 
 ##. double - numeric - decimal
